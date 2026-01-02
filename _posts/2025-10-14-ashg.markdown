@@ -3,7 +3,7 @@ layout: post
 title:  "Elucidating the shared genetic architecture of hypercholesterolemia and endometriosis through a mediation framework"
 date:   2025-10-14 22:21:59 +00:00
 image: /images/ashg2025.png
-categories: research
+categories: research_AR
 author: "Ananya Rajagopalan"
 authors: "<strong>Ananya Rajagopalan</strong>, Lindsay Guare, Aude Ikuzwe, Lanna Caruth, Craig Teerlink, Danielle Candelieri, Penn Medicine BioBank, Regeneron Genetics Center, Marijana Vujković, Julie Lynch, Shefali Setia-Verma"
 venue: "American Society of Human Genetics (Poster)"
