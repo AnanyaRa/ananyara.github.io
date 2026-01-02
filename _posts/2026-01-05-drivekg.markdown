@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "DRIVE-KG: Enhancing variant-phenotype association discovery in understudied complex diseases using heterogeneous knowledge graphs"
-date:   2026-01-05 22:21:59 +00:00
+date:   2026-01-01 02:21:59 +00:00
 image: /images/drivekg.png
 categories: research_AR
 author: "Ananya Rajagopalan"
