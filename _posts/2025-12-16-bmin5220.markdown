@@ -2,7 +2,7 @@
 layout: post
 title:  "Development of an EHR-Based Phenotyping Algorithm to Identify Recommendations for Bedrest and Activity Restriction in Pregnancy"
 date:   2025-12-16 22:21:59 +00:00
-image: /images/test.png
+image: /images/methods_llms.png
 categories: UPenn
 course: "BMIN 5220: NLP for Health"
 author: "Ananya Rajagopalan"
