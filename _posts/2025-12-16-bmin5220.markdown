@@ -1,15 +1,15 @@
 ---
 layout: post
 title:  "Development of an EHR-Based Phenotyping Algorithm to IdentifyRecommendations for Bedrest and Activity Restriction in Pregnancy"
-date:   2011-07-21 22:21:59 +00:00
+date:   2025-12-16 22:21:59 +00:00
 image: /images/tetra-pcb.jpg
 categories: UPenn
 course: "UPenn BMIN 5220: NLP for Health"
 author: "Ananya Rajagopalan"
-paper: pdfs/bmin5220.pdf
+paper: /pdfs/bmin5220.pdf
 # subtitle: "Collaborative robot state estimation"
 ---
 
 Completed as my final course project for NLP for Health, to explore the efficacy of open-source LLMs in automatically identifying relevant details from clinical notes. Done in collaboration with Dr. Beth Pineles, Dr. Ari Klein, and Dr. Danielle Mowery. 
 
-Preterm birth is a leading cause of neonatal mortality and morbidity worldwide. Doctors frequently recommend physical activity restrictions to pregnant patients with the hopes of preventing preterm birth, even though this practice has been proven ineffective and sometimes harmful. While clinicians document their activity restriction recommendations in clinical notes, they can be difficult to parse due to their unstructured format, and the prevalence of these recommendations has not been characterized on a large scale. In this study, we develop a phenotyping algorithm using large language models (LLMs) to identify activity restriction recommendations in clinical notes from Penn Medicine. Using 200 randomly selected patient records from PennChart (Epic Clarity), three trained reviewers annotated notes at the sentence-level to create a reference standard. We evaluated the OpenAI gpt-oss-20b model using iterative prompt refinement to classify the presence and type of activity restriction. The model demonstrated strong off-the-shelf performance in early batches, with high precision and recall for certain restriction types (work, pelvic rest, and lifting in batch 1, bed rest in batch 2), though performance varied and favored precision over recall for overall restriction identification. These results support the use of LLM-based NLP methods to identify activity restriction recommendations and inform efforts to de-implement them nationally.
+<!-- Preterm birth is a leading cause of neonatal mortality and morbidity worldwide. Doctors frequently recommend physical activity restrictions to pregnant patients with the hopes of preventing preterm birth, even though this practice has been proven ineffective and sometimes harmful. While clinicians document their activity restriction recommendations in clinical notes, they can be difficult to parse due to their unstructured format, and the prevalence of these recommendations has not been characterized on a large scale. In this study, we develop a phenotyping algorithm using large language models (LLMs) to identify activity restriction recommendations in clinical notes from Penn Medicine. Using 200 randomly selected patient records from PennChart (Epic Clarity), three trained reviewers annotated notes at the sentence-level to create a reference standard. We evaluated the OpenAI gpt-oss-20b model using iterative prompt refinement to classify the presence and type of activity restriction. The model demonstrated strong off-the-shelf performance in early batches, with high precision and recall for certain restriction types (work, pelvic rest, and lifting in batch 1, bed rest in batch 2), though performance varied and favored precision over recall for overall restriction identification. These results support the use of LLM-based NLP methods to identify activity restriction recommendations and inform efforts to de-implement them nationally. -->
