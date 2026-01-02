@@ -7,7 +7,7 @@ categories: research_AR
 author: "Ananya Rajagopalan"
 authors: "<strong>Ananya Rajagopalan</strong>, Tram Anh Nguyen, Lindsay A. Guare, Andre Luis Garao Rico, Rasika Venkatesh Lannawill Caruth, Regeneron Genetics Center, Penn Medicine BioBank, Anurag Verma, Marylyn D. Ritchie, Molly A. Hall, Joseph D. Romano, Shefali Setia-Verma"
 venue: "Pacific Symposium on Biocomputing (PSB)"
-paper: https://www.medrxiv.org/content/10.1101/2025.08.19.25333942v1
 code: https://github.com/Setia-Verma-Lab/multi_omics_kg
+paper: https://www.medrxiv.org/content/10.1101/2025.08.19.25333942v1
 ---
 We present a heterogeneous knowledge graph framework for integrating multi-omics data from multiple independent datasets and apply it to complex, historically understudied conditions. We train 2 downstream models for link prediction and patient-level classification using the underlying knowledge graph (DRIVE-KG).
