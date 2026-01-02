@@ -4,7 +4,8 @@ title:  "Evaluation of a Rule-Based Phenotyping Algorithm for Endometriosis"
 date:   2025-05-22 00:10:26 +00:00
 image: /images/wce2025.png
 # categories: unpublished_research
-course: "19th World Congress on Endometriosis (Poster)"
+categories: 19th
+course: "World Congress on Endometriosis (Poster)"
 # course: "BMIN 5200: Foundations of AI in Health"
 author: "Ananya Rajagopalan"
 authors: "<strong>Ananya Rajagopalan</strong>, Lindsay Guare, Ashley Batugo, Meredith Pollie, Leigh Ann Humphries, Penn Medicine Biobank, Danielle Mowery, Suneeta Senapati, Shefali Setia-Verma"
