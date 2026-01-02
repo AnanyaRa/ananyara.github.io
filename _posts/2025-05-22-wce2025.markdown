@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "A Rule-Based Expert System for Improved Endometriosis Phenotyping"
-date:   2024-12-22 00:10:26 +00:00
-image: /images/bmin5200.png
-categories: UPenn
-course: "BMIN 5200: Foundations of AI in Health"
+title:  "Evaluation of a Rule-Based Phenotyping Algorithm for Endometriosis"
+date:   2025-05-22 00:10:26 +00:00
+image: /images/wce2025.png
+categories: research_AR
+# course: "BMIN 5200: Foundations of AI in Health"
 author: "Ananya Rajagopalan"
 code: https://github.com/Setia-Verma-Lab/Endo_RuleBased_Phenotyping
-paper: /pdfs/bmin5200.pdf
+paper: /pdfs/wce2025.pdf
+venue: 19th World Congress on Endometriosis (Poster)
 # subtitle: "Low power wireless"
 ---
 Incorporating additional symptom and risk factors data from a patient’s EHR in a rule-based expert system to improve the classification accuracy of endometriosis cases and controls.
