@@ -2,12 +2,11 @@
 layout: post
 title:  "Development of an EHR-Based Phenotyping Algorithm to Identify Recommendations for Bedrest and Activity Restriction in Pregnancy"
 date:   2025-12-16 22:21:59 +00:00
-image: /images/bmin5220_methods.png
+image: /images/box.jpg
 categories: UPenn
 course: "BMIN 5220: NLP for Health"
 author: "Ananya Rajagopalan"
 paper: /pdfs/bmin5220.pdf
-# subtitle: "Collaborative robot state estimation"
 ---
 
 Completed as my final course project for NLP for Health, to explore the efficacy of open-source LLMs in automatically identifying relevant details from clinical notes. Done in collaboration with Dr. Beth Pineles, Dr. Ari Klein, and Dr. Danielle Mowery. 

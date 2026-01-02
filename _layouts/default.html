@@ -199,7 +199,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat != 'research' and cat != 'CMU' and cat != 'Intel' and cat != 'Stanford' and cat != 'Other' %}
+          {% if cat != 'research' and cat != 'CMU' and cat != 'Intel' and cat != 'Stanford' and cat != 'Other' and cat != 'UC'%}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
