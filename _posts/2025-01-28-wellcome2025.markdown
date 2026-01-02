@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Evaluating the effectiveness of a PCOS-mediator effect polygenic risk score in predicting Type 2 diabetes in women"
+date:   2025-01-28 22:21:59 +00:00
+image: /images/wellcome2025.png
+categories: research_AR
+author: "Ananya Rajagopalan"
+authors: "<strong>Ananya Rajagopalan</strong>, Lannawill Caruth, Jagyashila Das, Lindsay Guare, Stephanie Mohammed, Marijana Vujković, Shefali Setia-Verma"
+venue: "Wellcome Women's Health: Genes, Data and Advancing Approaches (Poster)"
+poster: /pdfs/wellcome2025.pdf
+# arxiv: https://arxiv.org/abs/1904.12573
+# slides: /pdfs/jcdl2019.pdf
+# code: https://github.com/leonidk/venue_scores
+# website: https://leonidk.github.io/venue_scores/
+---
+We develop a risk prediction approach that distinguishes between direct genetic effects on T2D, and indirect effects mediated through PCOS. This provides a more nuanced understanding of diabetes risk by acknowledging that genetic variants may impact disease risk through complex, interconnected biological mechanisms rather than through direct, linear effects. Awarded the Best Poster Prize!

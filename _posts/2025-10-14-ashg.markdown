@@ -12,4 +12,4 @@ poster: /pdfs/ashg2025.pdf
 # code: https://github.com/leonidk/fuzzy-metaballs
 
 ---
-We develop and apply a mediated GWAS methodology that distinguishes between direct genetic effects on hypercholesterolemia, and indirect effects mediated through endometriosis. Recieved the Reviewer's Choice Award (top 10% of abstracts)!
+We develop and apply a mediated GWAS methodology that distinguishes between direct genetic effects on hypercholesterolemia, and indirect effects mediated through endometriosis. Received the Reviewer's Choice Award (top 10% of abstracts)!
