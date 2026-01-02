@@ -3,7 +3,7 @@ layout: post
 title:  "Evaluating the effectiveness of a PCOS-mediator effect polygenic risk score in predicting Type 2 diabetes in women"
 date:   2025-01-28 22:21:59 +00:00
 image: /images/wellcome2025.png
-categories: research_AR
+categories: research
 author: "Ananya Rajagopalan"
 authors: "<strong>Ananya Rajagopalan</strong>, Lannawill Caruth, Jagyashila Das, Lindsay Guare, Stephanie Mohammed, Marijana Vujković, Shefali Setia-Verma"
 venue: "Wellcome Women's Health: Genes, Data and Advancing Approaches (Poster)"
