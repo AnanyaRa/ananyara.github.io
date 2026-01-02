@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Rapid Detection of Heart Rate Fragmentation and Cardiac Arrhythmias: Cycle-by-Cycle rr Analysis, Supervised Machine Learning Model and Novel Insights"
+date:   2019-05-30 22:21:59 +00:00
+image: /images/aime_2019.png
+categories: research_AR
+author: "Ananya Rajagopalan"
+authors: "<strong>Ananya Rajagopalan</strong>, Marcus Vollmer"
+venue: "Artificial Intelligence in Medicine (AIME)"
+paper: /pdfs/AIME_2019.pdf
+---
+Applied a random forest model using five ECG-derived features (three of which were developed in this work, indicating heart rate variability and fragmentation) to classify individuals as having arrhythmia or heart rate fragmentation. 
