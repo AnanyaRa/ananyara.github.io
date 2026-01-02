@@ -6,7 +6,7 @@ image: /images/drivekg.png
 categories: research_AR
 author: "Ananya Rajagopalan"
 authors: "<strong>Ananya Rajagopalan</strong>, Tram Anh Nguyen, Lindsay A. Guare, Andre Luis Garao Rico, Rasika Venkatesh Lannawill Caruth, Regeneron Genetics Center, Penn Medicine BioBank, Anurag Verma, Marylyn D. Ritchie, Molly A. Hall, Joseph D. Romano, Shefali Setia-Verma"
-venue: "Pacific Symposium on Computing"
+venue: "Pacific Symposium on Biocomputing (PSB)"
 medrxiv: https://www.medrxiv.org/content/10.1101/2025.08.19.25333942v1
 code: https://github.com/Setia-Verma-Lab/multi_omics_kg
 ---
