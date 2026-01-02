@@ -10,5 +10,4 @@ venue: "Pacific Symposium on Computing (PSB) 2026"
 medrxiv: https://www.medrxiv.org/content/10.1101/2025.08.19.25333942v1
 code: https://github.com/Setia-Verma-Lab/multi_omics_kg
 ---
-We present a heterogeneous knowledge graph framework for integrating multi-omics data from multiple independent datasets. By training a link prediction model to suggest candidate SNP-endometriosis associations, we identify biologically distinct signals that are related to in-
-flammatory pathways and well-established co-morbidities of endometriosis, but not previously associated with endometriosis itself. 
+We present a heterogeneous knowledge graph framework for integrating multi-omics data from multiple independent datasets and apply it to complex, historically understudied conditions. We train 2 downstream models for link prediction and patient-level classification using the underlying knowledge graph (DRIVE-KG).
