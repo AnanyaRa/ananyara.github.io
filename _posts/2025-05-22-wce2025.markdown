@@ -6,8 +6,9 @@ image: /images/wce2025.png
 categories: research_AR
 # course: "BMIN 5200: Foundations of AI in Health"
 author: "Ananya Rajagopalan"
+authors: "<strong>Ananya Rajagopalan</strong>, Lindsay Guare, Ashley Batugo, Meredith Pollie, Leigh Ann Humphries, Penn Medicine Biobank, Danielle Mowery, Suneeta Senapati, Shefali Setia-Verma"
 code: https://github.com/Setia-Verma-Lab/Endo_RuleBased_Phenotyping
-paper: /pdfs/wce2025.pdf
+poster: /pdfs/wce2025.pdf
 venue: 19th World Congress on Endometriosis (Poster)
 # subtitle: "Low power wireless"
 ---
