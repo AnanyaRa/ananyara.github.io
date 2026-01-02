@@ -3,7 +3,7 @@ layout: post
 title:  "DRIVE-KG: Enhancing variant-phenotype association discovery in understudied complex diseases using heterogeneous knowledge graphs"
 date:   2025-08-01 22:21:59 +00:00
 image: /images/drivekg.png
-categories: research
+categories: research_AR
 author: "Ananya Rajagopalan"
 authors: "<strong>Ananya Rajagopalan</strong>, Tram Anh Nguyen, Lindsay A. Guare, Andre Luis Garao Rico, Rasika Venkatesh Lannawill Caruth, Regeneron Genetics Center, Penn Medicine BioBank, Anurag Verma, Marylyn D. Ritchie, Molly A. Hall, Joseph D. Romano, Shefali Setia-Verma"
 venue: "Pacific Symposium on Computing (PSB) 2026"
