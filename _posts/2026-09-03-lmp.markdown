@@ -3,7 +3,7 @@ layout: post
 title:  "Evaluation of Large Language Models in Deriving Last Menstrual Period (LMP) From Clinical Notes"
 date:   2026-09-03 21:21:53 +00:00
 image: /images/lmp_overview.png
-categories: Ongoing Doctoral Research
+categories: Ongoing-Doctoral-Research
 # course: "16-824: Visual Learning and Recognition"
 author: "Ananya Rajagopalan"
 authors: <strong>Ananya Rajagopalan</strong>, Lannawill Caruth, Sy Hwang, Eric Wagner, Arden McAllister, Courtney A. Schreiber, Anurag Verma, Shefali Setia-Verma, Alice Abernathy
