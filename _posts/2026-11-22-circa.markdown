@@ -3,7 +3,7 @@ layout: post
 title:  "Multimodal Prediction of Early Pregnancy Complications"
 date:   2026-11-22 21:21:53 +00:00
 image: /images/circa_ldi.png
-categories: UPenn.
+categories: Ongoing Doctoral Research 
 author: "Ananya Rajagopalan"
 # code: https://github.com/Setia-Verma-Lab/multi_omics_kg
 # paper: https://www.medrxiv.org/content/10.1101/2025.08.19.25333942v1
