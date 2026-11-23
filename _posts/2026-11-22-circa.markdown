@@ -10,8 +10,6 @@ author: "Ananya Rajagopalan"
 # venue: "Pacific Symposium on Biocomputing (PSB)"
 ---
 
-Manuscript in preparation.
+Manuscript in preparation. Integrating patient-reported conversational AI data with longitudinal structured and unstructured EHRs for pregnant individuals using a multimodal fusion model.
 
-Integrating patient-reported conversational AI data with longitudinal structured and unstructured EHRs for pregnant individuals using a multimodal fusion model.
-<!-- 
-Collaborating closely with a practicing OBGYN to develop predictive models for ectopic, miscarriage, and viable intrauterine pregnancy. -->
+<!-- Collaborating closely with a practicing OBGYN to develop predictive models for ectopic, miscarriage, and viable intrauterine pregnancy. -->
