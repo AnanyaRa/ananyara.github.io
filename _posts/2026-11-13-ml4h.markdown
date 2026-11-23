@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Prototype Learning from Electronic Health Records for Interpretable Classification of Pregnancy Outcomes"
+date:   2026-11-13 02:21:59 +00:00
+image: /images/ml4h_overview.png
+categories: research_AR
+author: "Ananya Rajagopalan"
+authors: "<strong>Ananya Rajagopalan</strong>, Yidi Huang, Nia Bhadra-Heintz, Alice Abernathy, Shefali Setia-Verma, Joseph D. Romano"
+venue: "Machine Learning for Health (ML4H) Symposium"
+# arxiv: https://arxiv.org/abs/1904.05537
+# slides: /pdfs/crv19-slides.pdf
+code: https://github.com/Setia-Verma-Lab/longitudinal_pregnancy_modeling/tree/main
+---
+
+Adapting prototype learning to structured, longitudinal electronic health record (EHR) data to obtain interpretable, case-based explanations for predictions of adverse pregnancy outcomes. We use a multi-branch architecture with features extracted from a pretrained foundation model to learn both global and local prototypes from nearly 60,000 pregnancy trajectories. Our method reveals promise for prototype learning from longitudinal EHRs while surfacing distinct challenges around clinical usability. 
