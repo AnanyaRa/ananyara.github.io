@@ -12,4 +12,4 @@ venue: "Machine Learning for Health (ML4H) Symposium"
 code: https://github.com/Setia-Verma-Lab/longitudinal_pregnancy_modeling/tree/main
 ---
 
-Adapting prototype learning to structured, longitudinal electronic health record (EHR) data to obtain interpretable, case-based explanations for predictions of adverse pregnancy outcomes. We use a multi-branch architecture with features extracted from a pretrained foundation model to learn both global and local prototypes from nearly 60,000 pregnancy trajectories. Our method reveals promise for prototype learning from longitudinal EHRs while surfacing distinct challenges around clinical usability. 
+Adapting prototype learning to structured, longitudinal electronic health record (EHR) data to obtain interpretable, case-based explanations for predictions of adverse pregnancy outcomes. Our method reveals promise for prototype learning from longitudinal EHRs while surfacing distinct challenges around clinical usability. 

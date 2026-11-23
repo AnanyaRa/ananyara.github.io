@@ -10,9 +10,7 @@ authors: <strong>Ananya Rajagopalan</strong>, Lannawill Caruth, Sy Hwang, Eric W
 # paper: /pdfs/16824_snpowers_lkeselma.pdf
 ---
 
-Manuscript in preparation.
-
-Benchmarked 16 LLMs across 46,932 notes with 3 zero-shot prompts for extracting LMP, which anchors pregnancy dating and obstetric decisions; characterized hallucination of LMP dates, detected in 6-12% of LLM output. 
+Manuscript in preparation. Benchmarked 16 LLMs across 46,932 notes with 3 zero-shot prompts for extracting LMP, which anchors pregnancy dating and obstetric decisions; characterized hallucination of LMP dates, detected in 6-12% of LLM output. 
 
 <!-- ---
 layout: post
