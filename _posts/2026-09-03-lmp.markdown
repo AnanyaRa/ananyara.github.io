@@ -7,6 +7,7 @@ categories: Ongoing Doctoral Research
 # course: "16-824: Visual Learning and Recognition"
 author: "Ananya Rajagopalan"
 authors: <strong>Ananya Rajagopalan</strong>, Lannawill Caruth, Sy Hwang, Eric Wagner, Arden McAllister, Courtney A. Schreiber, Anurag Verma, Shefali Setia-Verma, Alice Abernathy
+code: https://github.com/Setia-Verma-Lab/early_pregnancy_phenotyping
 # paper: /pdfs/16824_snpowers_lkeselma.pdf
 ---
 
